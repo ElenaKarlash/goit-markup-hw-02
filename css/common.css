@@ -18,7 +18,7 @@
 
 body {
    
-    font-family: "Raleway", "Roboto", 'san-serif';
+    font-family: "Roboto", 'san-serif';
 
 }
 
@@ -36,7 +36,7 @@ h3,
 h4,
 h5 {
 
-    margin: o;
+    margin: 0;
     
 }
 
@@ -76,7 +76,7 @@ button {
 
 .navigation-list {
 
-    font-family: Roboto;
+   /* font-family: Roboto, san-serif;*/
     font-weight: 500;
     font-size: 14px;
     line-height: 1,15;
@@ -86,12 +86,12 @@ button {
 
 .navigation-link {
 
-    font-family: Roboto;
+   /* font-family: Roboto, san-serif;*/
     font-weight: 500;
     font-size: 14px;
     Line-height: 1,14;
     
-    color: var(--black-tex);
+    color: var(--black-text);
 
 }
 
@@ -104,7 +104,7 @@ button {
   
 .contacts-link {
 
-    font-family: Roboto;
+   /* font-family: Roboto, san-serif;*/
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -127,7 +127,7 @@ button {
 
 .link-logo {
     
-    font-family: Raleway;
+    font-family: Raleway, san-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -170,7 +170,7 @@ button {
 
 .logo-footer {
 
-    font-family: Raleway;
+    font-family: Raleway, san-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -181,7 +181,7 @@ button {
 
 .address-list-link {
 
-    font-family: Roboto;
+   /* font-family: Roboto, san-serif;*/
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
@@ -192,7 +192,7 @@ button {
 
 .contacts-list-link {
     
-    font-family: Roboto;
+   /* font-family: Roboto, san-serif;*/
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;

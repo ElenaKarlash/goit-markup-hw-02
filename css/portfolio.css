@@ -1,15 +1,24 @@
 
+
+
 .buttons-list-item {
 
-    font-family: Roboto;
+   /* font-family: Roboto, san-serif;*/
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
     border: none;
     
     color: var(--black-text);
-   
+
 }
+
+.buttons-list-item button{
+
+    background-color: var(--background-section-four);
+
+}
+
 
  .buttons-list-item button:hover,
  .buttons-list-item button:focus {
@@ -22,7 +31,7 @@
 
 .project-list-title {
 
-    font-family: Roboto;
+  /*  font-family: Roboto, san-serif;*/
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -33,7 +42,7 @@
 
 .project-list-description {
 
-    font-family: Roboto;
+   /* font-family: Roboto, san-serif;*/
     font-weight: 400;
     font-size: 16px;
     line-height: 1.87;
